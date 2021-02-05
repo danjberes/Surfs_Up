@@ -7,14 +7,14 @@ This analysis is done to compare temperatures in June and December to see if the
 ## Results
 
 ### June
-- 1700 records of temperature for the months of June over a period of time were analyzed
+- 1700 records of temperature for the months of June were analyzed
 - The average temperature in any day in June is 74.9F
 - The lowest temperature in the month of June is 64F
 - The maximum temperature in the month of June is 85F
 - The median is 75F
 
 ### December 
-- 1517 records of temperature for the month of December over the period of time were analyzed
+- 1517 records of temperature for the month of December were analyzed
 - The average temperature in any day in December is 71.0F
 - The minimum temperature ever recorded in the month of December is 56F
 - The Maximum temperature ever recorded in the month of December is 83F
